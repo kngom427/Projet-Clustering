@@ -18,7 +18,7 @@ streamlit run streamlit_app.py
 ```
 ou en demo : 
 ```bash
-projet-clustering ∙ principal ∙ streamlit_app.py
+https://projet-clustering-ermzimsjt2nmqv56e4zopx.streamlit.app
 ```
 
 ---
