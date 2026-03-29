@@ -24,7 +24,7 @@ streamlit run streamlit_app.py
 ```
 projet_clustering/
 │
-├── 📓 clustering_projet.ipynb        ← Notebook principal (toute l'analyse CRISP-DM)
+├── 📓 projet_de_clustering.ipynb        ← Notebook principal (toute l'analyse CRISP-DM)
 ├── 🌐 streamlit_app.py               ← Web App de déploiement (Streamlit)
 ├── 📊 dataset_clustering_td7.xlsx    ← Jeu de données (à placer ici — non versionné)
 ├── 📊 resultats_clustering.xlsx      ← Export des résultats (généré par le notebook)
