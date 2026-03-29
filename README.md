@@ -85,7 +85,7 @@ jupyter notebook clustering_projet.ipynb
 Exécutez **toutes les cellules dans l'ordre** (*Kernel → Restart & Run All*).  
 Le notebook génère automatiquement le dossier `modele/`.
 
-### Étape 3a — Lancer la Web App (Streamlit)
+### Étape 3 — Lancer la Web App (Streamlit)
 
 ```bash
 streamlit run streamlit_app.py
