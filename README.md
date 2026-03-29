@@ -16,6 +16,10 @@ Lancer l'application web :
 ```bash
 streamlit run streamlit_app.py
 ```
+ou en demo : 
+```bash
+projet-clustering ∙ principal ∙ streamlit_app.py
+```
 
 ---
 
