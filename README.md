@@ -93,11 +93,6 @@ streamlit run streamlit_app.py
 
 L'application s'ouvre dans votre navigateur à `http://localhost:8501`.
 
-### Étape 3b — Lancer l'application console (alternative)
-
-```bash
-python app_deploiement.py
-```
 
 ---
 
