@@ -26,7 +26,6 @@ projet_clustering/
 │
 ├── 📓 clustering_projet.ipynb        ← Notebook principal (toute l'analyse CRISP-DM)
 ├── 🌐 streamlit_app.py               ← Web App de déploiement (Streamlit)
-├── 🐍 app_deploiement.py             ← Application console alternative
 ├── 📊 dataset_clustering_td7.xlsx    ← Jeu de données (à placer ici — non versionné)
 ├── 📊 resultats_clustering.xlsx      ← Export des résultats (généré par le notebook)
 ├── 📄 requirements.txt               ← Dépendances Python
