@@ -16,7 +16,7 @@ Lancer l'application web :
 ```bash
 streamlit run streamlit_app.py
 ```
-ou en demo : 
+ou via un lien direct : 
 ```bash
 https://projet-clustering-ermzimsjt2nmqv56e4zopx.streamlit.app
 ```
